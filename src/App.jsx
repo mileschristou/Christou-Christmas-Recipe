@@ -266,6 +266,188 @@ const recipes = {
       { label: "Finishing", start: "1:04:42", end: "1:05:17" },
       { label: "Final Touches", start: "1:05:18", end: "1:05:32" }
     ]
+  },
+  turkey: {
+    title: "Brined Turkey Crown & Stuffed Legs",
+    ingredients: [
+      "7 kg Turkey",
+      "BRINE: 10 L Water, 500 g Salt, 6 Bay Leaves, 5 g Peppercorns, 12 Cloves Garlic (Smashed), 10 g Thyme",
+      "LEG STUFFING: 400 g Sausage Meat, 1 Shallot (Finely Diced), 5 g Sage (Finely Chopped), 2 Cloves Garlic (Grated), 500 g Streaky Bacon",
+      "CROWN: 40 g Unsalted Butter (Cubed)",
+      "Honey for glazing"
+    ],
+    steps: [
+      "Heat a small part of the water and dissolve the salt. Add into the rest of the cold water and add in the aromatics. Wait until water is completely cooled before adding the turkey in. Place in the fridge to brine for 24 hours",
+      "The next day, remove from the brine and pat off excess moisture",
+      "Remove the wing and reserve for stock. Cut up the neck",
+      "Remove the leg from the crown",
+      "Debone the leg: Use your finger to feel where the bone is. Use the tip of your knife to make shallow cuts along the length of the bone. Scrape the meat away. When the whole bone is exposed, cut underneath to release. Save the bone for stock",
+      "Flatten the meat. Remove any excess cartilage, tendons, or sinew. Use a rolling pin to flatten and tenderize",
+      "Combine sausage meat, shallot, sage, garlic. Mix with your hand",
+      "Lay down foil and place a layer of streaky bacon, slightly overlapping. Lay the turkey leg on top. Place stuffing in the centre",
+      "Roll the foil over to make the bacon meet in the middle. Roll up tightly and secure the ends",
+      "Place into a 180°C oven. Probe after one hour. Remove turkey leg at 65°C, rest to 75°C",
+      "For the crown: Gently separate the skin from the chicken by sliding your fingers under the skin",
+      "Remove the wishbone: Find the V shaped bone between the breasts. Use the tip of your knife to expose and remove",
+      "Place cubes of butter under the skin of the turkey crown",
+      "Place onto a rack over the tray of roasting bones. Place into a 180°C oven",
+      "Probe after one hour. If temperature is uneven, lower heat to 145°C for about 20 minutes",
+      "Remove when internal temperature reaches 65°C, rest to 75°C. When cooler, cover with foil",
+      "To reheat legs: Remove foil, drizzle oil over bacon. Place into 200°C oven for 15 minutes. Drizzle with honey and return for 8 minutes",
+      "To reheat crown: Place into 195°C oven to crisp skin for 5-8 minutes",
+      "Carve breast into 2 cm slices. Season with flaky salt"
+    ],
+    segments: [
+      { label: "Intro & Timings", start: "0:00", end: "0:49" },
+      { label: "Brining", start: "0:50", end: "1:28" },
+      { label: "Taking Wings & Legs Off", start: "1:29", end: "2:47" },
+      { label: "Removing Giblets", start: "2:48", end: "3:04" },
+      { label: "Deboning Leg", start: "3:05", end: "4:22" },
+      { label: "Removing Tendons", start: "4:23", end: "6:29" },
+      { label: "Prepping Crown", start: "7:00", end: "8:25" },
+      { label: "Making Stuffing", start: "8:53", end: "9:57" },
+      { label: "Rolling Turkey Leg", start: "9:58", end: "11:38" },
+      { label: "Legs into Oven", start: "11:39", end: "12:07" },
+      { label: "Crown Prep", start: "12:08", end: "12:49" },
+      { label: "Removing Wishbone", start: "13:47", end: "14:30" },
+      { label: "Adding Butter", start: "14:31", end: "14:58" },
+      { label: "Crown into Oven", start: "14:59", end: "15:10" },
+      { label: "Leg Out/Temp Test", start: "37:09", end: "38:01" },
+      { label: "Crown Out (1st cook)", start: "39:31", end: "41:56" },
+      { label: "Resting Turkey", start: "41:57", end: "42:15" },
+      { label: "Leg Back in Oven", start: "1:04:17", end: "1:08:27" },
+      { label: "Legs Out to Glaze", start: "1:08:28", end: "1:08:43" },
+      { label: "Crown Back in", start: "1:08:44", end: "1:10:27" },
+      { label: "Final Glaze", start: "1:10:28", end: "1:10:34" },
+      { label: "Crown Out (Final)", start: "1:10:35", end: "1:10:45" }
+    ]
+  },
+  cranberrySauce: {
+    title: "Cranberry Sauce",
+    ingredients: [
+      "150 g Caster Sugar",
+      "100 g Water",
+      "1 Banana Shallot, Finely Diced",
+      "12 oz Cranberries",
+      "3 Sprigs Thyme, Picked",
+      "40 g Orange Juice",
+      "Zest of 2 Oranges",
+      "Orange Segments"
+    ],
+    steps: [
+      "Add sugar, water, shallot, zest, cranberries, thyme, and orange juice into a heavy bottom pan over a medium heat",
+      "Cook until cranberries burst and begin to thicken",
+      "When the cranberry sauce reaches a thick texture, take off heat and add in the orange segments"
+    ],
+    segments: [
+      { label: "Starting", start: "48:55", end: "52:37" },
+      { label: "Stirring (12 min)", start: "52:38", end: "56:18" },
+      { label: "Finished (16 min)", start: "56:19", end: "56:45" }
+    ]
+  },
+  redCabbage: {
+    title: "Braised Red Cabbage",
+    ingredients: [
+      "1 Large Head Red Cabbage, Cut 2mm Thick",
+      "330 g Apple Juice",
+      "150 ml Dry Red Wine",
+      "5 g Ground Ginger",
+      "5 g Ground Cinnamon",
+      "5 g Ground Nutmeg",
+      "20 g Caster Sugar",
+      "1 Jar Red Currant Jelly",
+      "20 g Sherry or Balsamic Vinegar",
+      "25 g Caster Sugar (extra)"
+    ],
+    steps: [
+      "Cut cabbages into quarters and remove outer layer. Cut off core. Slice 2mm thick",
+      "Place Apple juice in a heavy bottom pan with the cabbage. Place over a high heat with the lid on until all of the moisture is released",
+      "When the moisture is released, remove the lid to reduce the moisture",
+      "Add in the wine, ground ginger, cinnamon, nutmeg, sugar, and a large pinch of salt. Mix to combine",
+      "Continue to cook until all the liquid is evaporated",
+      "Add in red currant jelly, vinegar, and extra sugar",
+      "Before serving, place back onto heat and glaze the red cabbage and reduce the liquid"
+    ],
+    segments: [
+      { label: "Chopping & Prepping", start: "29:14", end: "38:23" },
+      { label: "Booze & Flavourings", start: "38:24", end: "51:55" },
+      { label: "Finishing to Stew", start: "51:56", end: "1:07:37" },
+      { label: "Reheating", start: "1:07:38", end: "1:09:58" },
+      { label: "Final Finishing", start: "1:09:59", end: "1:10:20" }
+    ]
+  },
+  shoppingList: {
+    title: "Complete Shopping List",
+    ingredients: [
+      "7 kg Turkey",
+      "500 g Salt (for brine)",
+      "6 Bay Leaves",
+      "5 g Peppercorns",
+      "12 Cloves Garlic, Smashed",
+      "10 g Thyme",
+      "400 g Sausage Meat",
+      "1-2 Shallots (Banana Shallot)",
+      "5 g Sage",
+      "500 g Streaky Bacon",
+      "40 g Unsalted Butter",
+      "Honey (for glazing)",
+      "2 kg Parsnips",
+      "2 kg Carrots",
+      "4 kg Potatoes (Agria or King Edward)",
+      "350 g Neutral Oil",
+      "4-5 Sprigs Rosemary",
+      "2 kg Brussels Sprouts",
+      "10 Rashers of Bacon",
+      "40 g Chestnuts",
+      "5 g Parsley",
+      "2 Medium Cauliflowers",
+      "125 g Unsalted Butter (for béchamel)",
+      "125 g Plain Flour",
+      "1 L Milk",
+      "200 g Mature Cheddar Cheese",
+      "50 g Gruyère",
+      "20 g Dijon Mustard",
+      "20 g Wholegrain Mustard",
+      "Pinch of Nutmeg",
+      "20 Chipolatas",
+      "1 kg Chicken Wings (for gravy)",
+      "2-3 Onions",
+      "3-4 Carrots (for mirepoix)",
+      "4 Litres Chicken Stock",
+      "100 g Dry White Wine",
+      "1/2 Lemon",
+      "Half a Loaf Stale White Bread",
+      "4 Cloves Garlic (for bread sauce)",
+      "2 L Whole Milk",
+      "330 g Double Cream",
+      "Small Handful of Coriander Seeds",
+      "Pinch of Black Peppercorns",
+      "150 g Caster Sugar (for cranberry)",
+      "12 oz Cranberries",
+      "2 Oranges (zest and segments)",
+      "40 g Orange Juice",
+      "1 Large Head Red Cabbage",
+      "330 g Apple Juice",
+      "150 ml Dry Red Wine",
+      "5 g Ground Ginger",
+      "5 g Ground Cinnamon",
+      "1 Jar Red Currant Jelly",
+      "20 g Sherry or Balsamic Vinegar",
+      "Flaky Sea Salt",
+      "Black Pepper"
+    ],
+    steps: [
+      "This is your complete shopping list for the entire Christou Christmas Dinner!",
+      "Print this list or save it to your phone before heading to the shops",
+      "Quantities are for 8-10 people",
+      "Fresh herbs: Thyme, Rosemary, Sage, Parsley, Bay Leaves",
+      "Dairy: Butter, Milk, Double Cream, Cheddar, Gruyère",
+      "Meat: 7kg Turkey, Sausage Meat, Bacon, Chipolatas, Chicken Wings",
+      "Vegetables: Parsnips, Carrots, Potatoes, Brussels Sprouts, Cauliflower, Red Cabbage, Onions, Garlic",
+      "Pantry: Flour, Stock, Wine, Honey, Mustard, Spices, Cranberries",
+      "Check your cupboards first - you may already have: Salt, Pepper, Oil, Flour, Spices, Stock"
+    ],
+    segments: []
   }
 };
 
@@ -418,7 +600,12 @@ export default function RecipeVideoApp() {
             onClick={() => switchRecipe(key)}
             className={`recipe-button ${activeRecipe === key ? 'active' : ''}`}
           >
-            {key === 'pigsInBlankets' ? 'Pigs in Blankets' : r.title.split(' ').slice(-1)[0]}
+            {key === 'pigsInBlankets' ? 'Pigs in Blankets' :
+             key === 'turkey' ? 'Turkey' :
+             key === 'cranberrySauce' ? 'Cranberry Sauce' :
+             key === 'redCabbage' ? 'Red Cabbage' :
+             key === 'shoppingList' ? 'Shopping List' :
+             r.title.split(' ').slice(-1)[0]}
           </button>
         ))}
       </nav>

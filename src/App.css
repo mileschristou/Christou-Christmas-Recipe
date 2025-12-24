@@ -1,0 +1,8 @@
+/* Minimal reset - the app uses inline styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
